@@ -139,4 +139,10 @@ input:focus, textarea:focus {
     text-decoration: none;
     font-weight: bold;
     margin-top: 8px;
-    }
+}
+
+footer {
+    background-color: rgb(59, 97, 80);
+    color: rgb(218, 187, 15);
+    padding: 16px 0;
+}
